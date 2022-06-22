@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## Data Science Portfolio of Dr Khairul Afzan Bin Aziz
 
-You can use the [editor on GitHub](https://github.com/drkhairulafzanaziz/drkay.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+As a data scientist my passion is to help SMEs to answer a few of questions regarding their industries using data.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. What information is most important to their business mission?
+2. What information is changing?
+3. What factors affect the information?
 
-### Markdown
+Below are the samples of how data are analyze and presented:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Social ads Comparison and Forecasting
 
-```markdown
-Syntax highlighted code block
+Which social ads give the best ROI or ROAS
 
-# Header 1
-## Header 2
-### Header 3
+This project builts a machine learning model to help us decide the optimal allocation for a limited budget ads spend.
 
-- Bulleted
-- List
+[Click here to access the notebook](https://colab.research.google.com/drive/1ZIbCnciELFdm-dN2nOofgIqQflIyfolT)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Real-time Youtube Report
 
-[Link](url) and ![Image](src)
-```
+How well Youtube performance can be monitored properly
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Here the sample of my real-time youtube channel dashboard
 
-### Jekyll Themes
+[Click here to access the dashboard](https://datastudio.google.com/s/k-NoHQV2fZ4)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/drkhairulafzanaziz/drkay.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### HR Report
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+How to identify the hidden issues on employees retention that will cost company recruitment program
+
+Here are the sample of the dashboard
+
+[Click here to access the dashboard](https://datastudio.google.com/s/m57xtF2jlFQ)
