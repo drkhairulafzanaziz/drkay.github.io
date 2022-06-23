@@ -19,17 +19,17 @@ This project builds a machine learning model to help us decide the optimal alloc
 
 ### Real-time Youtube Report
 
-How well Youtube performance can be monitored properly
+How well to monitor the performance of Youtube
 
-Here the sample of my real-time youtube channel dashboard
+Here is the example of my real-time Youtube channel dashboard.
 
 [Click here to access the dashboard](https://datastudio.google.com/s/k-NoHQV2fZ4)
 
 
 ### HR Report
 
-How to identify the hidden issues on employees retention that will cost company recruitment program
+How to identify the hidden retention issues that will cost your company's hiring program
 
-Here are the sample of the dashboard
+Here are the dashboard examples
 
 [Click here to access the dashboard](https://datastudio.google.com/s/m57xtF2jlFQ)
