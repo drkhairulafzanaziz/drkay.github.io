@@ -1,4 +1,4 @@
-<img width="150" height="150" src="https://github.com/drkhairulafzanaziz/drkhairulafzanaziz.github.io/blob/gh-pages/drkay.jpg">
+<img width="150" height="150" src="gh-pages/drkay.jpg">
 
 ## Data Science Portfolio of Dr Khairul Afzan Bin Aziz
 
