@@ -1,3 +1,5 @@
+<img src = "https://github.com/drkhairulafzanaziz/drkhairulafzanaziz.github.io/blob/gh-pages/drkay.jpg" height="150" width="150">
+
 ## Data Science Portfolio of Dr Khairul Afzan Bin Aziz
 
 As a data scientist, I am passionate about helping SMEs or entrepreneurs use data to answer a few questions that affect their industry:
