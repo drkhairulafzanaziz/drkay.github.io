@@ -1,12 +1,17 @@
 ## Data Science Portfolio of Dr Khairul Afzan Bin Aziz
 
-As a data scientist, I am passionate about helping SMEs or entrepreneurs use data to answer a few questions that affect their industry.
+As a data scientist, I am passionate about helping SMEs or entrepreneurs use data to answer a few questions that affect their industry:
 
 1. What information is most important to their business mission?
 2. What information is changing?
 3. What factors affect the information?
 
-Below are the samples of how data are analyzed and presented:
+Although there are many reasons to use data analytics, these questions need to be answered to meet two main reasons that are the bread and butter of a business:
+
+1. To increase revenue
+2. To reduce cost
+
+Below are examples of how to analyze and present data:
 
 ### Social ads Comparison and Forecasting
 
