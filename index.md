@@ -10,9 +10,9 @@ Below are the samples of how data are analyzed and presented:
 
 ### Social ads Comparison and Forecasting
 
-Which social ads give the best ROI or ROAS
+Which social ads bring the best ROI or ROAS
 
-This project builts a machine learning model to help us decide the optimal allocation for a limited budget ads spend.
+This project builds a machine learning model to help us decide the optimal allocation of a limited advertising budget.
 
 [Click here to access the notebook](https://colab.research.google.com/drive/1ZIbCnciELFdm-dN2nOofgIqQflIyfolT)
 
