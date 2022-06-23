@@ -1,6 +1,6 @@
 ## Data Science Portfolio of Dr Khairul Afzan Bin Aziz
 
-As a data scientist my passion is to help SMEs or entrepreneurs to answer a few of questions regarding their industries by using data.
+As a data scientist, I am passionate about helping SMBs or entrepreneurs use data to answer a few questions that affect their industry.
 
 1. What information is most important to their business mission?
 2. What information is changing?
