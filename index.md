@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/drkhairulafzanaziz/drkhairulafzanaziz.github.io/blob/fbc7327aa75109acff21aa7c8aa79717c16c9c65/drkay.jpg" width="350" title="hover text" alt="Dr Khairul Afzan Bin Aziz [Marketing Data Scientist]">
+  <img src="https://github.com/drkhairulafzanaziz/drkhairulafzanaziz.github.io/blob/fbc7327aa75109acff21aa7c8aa79717c16c9c65/drkay.jpg" width="350" title="hover text"> <img src="https://github.com/drkhairulafzanaziz/drkhairulafzanaziz.github.io/blob/fbc7327aa75109acff21aa7c8aa79717c16c9c65/drkay.jpg" width="350"alt="Dr Khairul Afzan Bin Aziz [Marketing Data Scientist]">
  </p>
+
 
 ## Data Science Portfolio of Dr Khairul Afzan Bin Aziz
 
