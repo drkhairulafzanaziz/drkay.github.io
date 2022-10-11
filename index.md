@@ -41,3 +41,13 @@ Here are the dashboard examples
 [Click here to access the dashboard](https://datastudio.google.com/embed/reporting/89bc9c71-7a0d-49c2-a4a8-4e53f6b55a50/page/8nzvC)
 
 <iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/89bc9c71-7a0d-49c2-a4a8-4e53f6b55a50/page/8nzvC" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+### Team Sales Report
+
+One of the challenges facing by most companies recently is to generate profits online sales using a sales team. Each member's performance must be monitored frequently to make sure they are on track. Thus, using the sales performance dashboard will help the team keep performing through out the year.
+
+Here are the dashboard examples
+
+[Click here to access the dashboard](https://datastudio.google.com/embed/reporting/89bc9c71-7a0d-49c2-a4a8-4e53f6b55a50/page/8nzvC)
+
+<iframe width="600" height="840" src="https://datastudio.google.com/embed/reporting/2476635e-f771-4b63-af0d-8684a09faa47/page/p_xkmxwh7wyc" frameborder="0" style="border:0" allowfullscreen></iframe>
