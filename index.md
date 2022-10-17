@@ -37,6 +37,12 @@ This project builds a machine learning model to help us decide the optimal alloc
 
 Using the sample of twits from twitter, entrepreneurs can see the negative or positive words that are most often present in tweets
 
+<img
+     src="/positive.JPG" width="700" height="500"
+     alt="linear regression"
+     title="linear regression"
+     style="display: inline-block; margin: 0 auto; max-width: 700px">
+
 [Click here to access the notebook](https://colab.research.google.com/drive/1KY0d4c1fDDOVTeuqoRzj592kNi742RYq?usp=sharing)
 
 ### Real-time Youtube Report
