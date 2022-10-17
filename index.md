@@ -23,6 +23,12 @@ Below are examples of how to analyze and present data:
 
 Which social ads bring the best ROI or ROAS
 
+<img
+     src="/linear%20regression%20analysis.JPG" width="700" height="500"
+     alt="linear regression"
+     title="linear regression"
+     style="display: inline-block; margin: 0 auto; max-width: 700px">
+
 This project builds a machine learning model to help us decide the optimal allocation of a limited advertising budget.
 
 [Click here to access the notebook](https://colab.research.google.com/drive/1ZIbCnciELFdm-dN2nOofgIqQflIyfolT)
