@@ -1,5 +1,12 @@
 ## Data Science Portfolio of Dr Khairul Afzan Bin Aziz
 
+<img
+     src="/drkay.jpg" width="100" height="100"
+     alt="My Picture"
+     title="My picture"
+     size="width: 100; height: 150"
+     style="display: inline-block; margin: 0 auto; max-width: 200px">
+
 As a data scientist, I am passionate about helping SMEs or entrepreneurs use data to answer a few questions that affect their industry:
 
 1. What information is most important to their business mission?
