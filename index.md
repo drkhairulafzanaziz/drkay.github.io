@@ -33,6 +33,11 @@ This project builds a machine learning model to help us decide the optimal alloc
 
 [Click here to access the notebook](https://colab.research.google.com/drive/1ZIbCnciELFdm-dN2nOofgIqQflIyfolT)
 
+### Sentiment Analysis
+
+Using the sample of twits from twitter, entrepreneurs can see the negative or positive words that are most often present in tweets
+
+[Click here to access the notebook](https://colab.research.google.com/drive/1KY0d4c1fDDOVTeuqoRzj592kNi742RYq?usp=sharing)
 
 ### Real-time Youtube Report
 
