@@ -17,6 +17,15 @@ Although there are many reasons to use data analytics, these questions need to b
 1. To increase revenue
 2. To reduce cost
 
+Within 5 years period until today, I have consulted five companies from 4 different industries such as restaurants, driving academies, property developers, and medicare.
+
+<img
+     src="/linear%20regression%20analysis.JPG" width="700" height="500"
+     alt="linear regression"
+     title="linear regression"
+     style="display: inline-block; margin: 0 auto; max-width: 700px">
+
+
 Below are examples of how to analyze and present data:
 
 ### Social ads Comparison and Forecasting
