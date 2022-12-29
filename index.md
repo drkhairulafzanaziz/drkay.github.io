@@ -66,7 +66,9 @@ Here is the example of my real-time Youtube channel dashboard.
 
 ### HR Report
 
-How to identify the hidden retention issues that will cost your company's hiring program
+Although HR is not a marketing issue, nowadays most companies consider attracting the right candidate is becoming tough. It is also true when it comes to retaining high-performance staff. Based on my experience, the hiring programs nevertheless have mimicked the marketing process to attract and retain quality customers.
+
+How to identify the hidden retention issues that will cost your company's hiring program?
 
 Here are the dashboard examples
 
