@@ -20,7 +20,7 @@ Although there are many reasons to use data analytics, these questions need to b
 Within 5 years period until today, I help 5 clients from 4 different industries such as restaurants, driving academies, property developers, and medicare.
 
 <img
-     src="/companies.JPG" width="700" height="200"
+     src="/companies.JPG" width="730" height="200"
      alt="linear regression"
      title="linear regression"
      style="display: inline-block; margin: 0 auto; max-width: 700px">
